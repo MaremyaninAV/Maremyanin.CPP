@@ -1,0 +1,12 @@
+﻿
+2. Зарегистрироваться на GitHub и прислать логин: Логин: Maremyanin, https://github.com/Maremyanin/Marem.Reposit.CPP
+3. Установить Git (https://git-scm.com/download/win) - сделал
+4. Установить TortoiseGit (https://tortoisegit.org/) - сделал
+5. Установить Visual Studio Comunity (инструкция в приложенном материале) - сделал
+6. Создать репозиторий на GitHub - сделал
+7. Сделать Clone репозитория к себе на компьютер - сделал
+8. Создать файлы в локальном репозитории - сделал
+9. Сделать Commit b Push - не получилось!!!!! указал ошибку!!!
+
+
+
